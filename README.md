@@ -1,6 +1,6 @@
 # TML Assignment4 Explainability
 
-The main goal of the assignment is to implement different model specific and versatile explainability methods like Grad CAM, LIME, Network Dissection, compare Grad CAM with related methods like Ablation CAM and Score CAM, compare LIME and Grad CAM using IoU metric and analyze the results in a report. 
+The main goal of the assignment is to implement different model-specific and versatile explainability methods like Grad CAM, LIME, Network Dissection, compare Grad CAM with related methods like Ablation CAM and Score CAM, compare LIME and Grad CAM using IoU metric, and analyze the results in a report. 
 
 
 ## Task 1 - Network Dissect
